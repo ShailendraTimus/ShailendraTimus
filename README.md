@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shailendra Lodhi
 - 👀 I’m interested in Android, OpenPages and AI Technology 
 - 🌱 I’m currently learning Openpages
-- 📫 How to reach me - LinkedIn
+- 📫 How to reach me - [LinkedIn](https://in.linkedin.com/in/shailendralodhi)
   
 - ⚡ Fun fact:  I turn coffee into code ☕➡️💻.
 
